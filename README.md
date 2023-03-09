@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D1N3SH-DEV
-- 👀 I’m interested in front-end, visual and audio designing.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Science and Analytics.
+- 🌱 I’m currently certified on IBM Data Science.
 - 📫 How to reach me dkm.hollatme@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D1N3SH-DEV
 - 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently certified on IBM Data Science.
+- 🌱 I’m currently certified in IBM Data Science.
 - 📫 How to reach me dkm.hollatme@gmail.com
 
 <!---
